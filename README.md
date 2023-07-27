@@ -1,7 +1,7 @@
 # python-api-challenge
 Python API Challenge Assignment
 
-Help with this assignment came from class resources, my tutor, as well as assistance from the following resources when assistance was required and/or I was stuck: 
+Help with this assignment came from class resources, my class professor Joanna Chen on debugging, my tutor, as well as assistance from the following resources when assistance was required and/or I was stuck: 
 
 https://docs.python.org/3/library/time.html
 
